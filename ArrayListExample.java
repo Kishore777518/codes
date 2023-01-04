@@ -9,6 +9,7 @@ public class ArrayListExample {
 		a1.add("Chennai");
 		a1.add("Banglore");
 		a1.add("Hyderabad");
+		a1.add("Kolkata");
 		System.out.println(a1);
 		a1.remove(1);
 		System.out.println(a1);
@@ -17,6 +18,7 @@ public class ArrayListExample {
 		a2.add("Tamil Nadu");
 		a2.add("Karanataka");
 		a2.add("Telungana");
+		a2.add("West Bengal");
 		System.out.println(a2);
 		a1.addAll(a2);
 		System.out.println(a1);
